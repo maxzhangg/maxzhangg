@@ -56,11 +56,12 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=maxzhangg&count_private=true&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=maxzhangg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img width=390 src="https://raw.githubusercontent.com/maxzhangg/maxzhangg/main/assets/streak-stats.svg" />
+  <img width=390 src="https://raw.githubusercontent.com/maxzhangg/maxzhangg/main/assets/github-stats.svg" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxzhangg&langs_count=8&layout=compact&theme=react&border_radius=10" />
+  <img width=325 align="center" src="https://raw.githubusercontent.com/maxzhangg/maxzhangg/main/assets/top-langs.svg" />
 </div>
+
 
 <br/><br/>
 <hr/>
