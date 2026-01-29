@@ -50,20 +50,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/maxzhangg/maxzhangg/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://raw.githubusercontent.com/maxzhangg/maxzhangg/main/assets/streak-stats.svg" />
-  <img width=390 src="https://raw.githubusercontent.com/maxzhangg/maxzhangg/main/assets/github-stats.svg" />
-  <br/>
-  <img width=325 align="center" src="https://raw.githubusercontent.com/maxzhangg/maxzhangg/main/assets/top-langs.svg" />
-</div>
-
-
-<br/><br/>
 <hr/>
 <br/>
 
